@@ -1,0 +1,96 @@
+# ==============================
+# Bioinformatics large data files
+# ==============================
+
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fa
+*.fna
+*.faa
+*.ffn
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Variant / annotation / temporary outputs
+*.vcf
+*.vcf.gz
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# ==============================
+# Bioinformatics tool outputs
+# ==============================
+
+# SPAdes
+spades/
+assembly/
+
+# Prokka
+prokka/
+annotation/
+
+# HISAT2
+hisat2_index/
+
+# MultiQC / FastQC generated reports
+multiqc_data/
+fastqc_data/
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# ==============================
+# R
+# ==============================
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ==============================
+# Conda / virtual environments
+# ==============================
+
+.conda/
+conda-env/
+venv/
+env/
+.venv/
+
+# ==============================
+# Operating system / editor files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.swp
+*.swo
+*~

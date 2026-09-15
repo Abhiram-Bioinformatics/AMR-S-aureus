@@ -1,0 +1,4 @@
+sra_run	sample_name	biosample	bioproject	sra_study	organism	assay_type	library_layout	instrument	isolation_source	strain	collection_date	country	host
+ERR13347068	gms2019sa_e203	SAMEA115805011	PRJEB77209	ERP161686	Staphylococcus aureus	WGS	PAIRED	NextSeq 500			2018	Sweden	
+ERR12712640	ST20180652	SAMEA115349498	PRJEB72696	ERP157475	Staphylococcus aureus	WGS	PAIRED	NextSeq 550	blood culture	STAAUR54	2018-03-10 00:00:00	France	Homo sapiens
+ERR12712641	ST20180732	SAMEA115349499	PRJEB72696	ERP157475	Staphylococcus aureus	WGS	PAIRED	NextSeq 550	blood culture	STAAUR55	2018-03-17 00:00:00	France	Homo sapiens

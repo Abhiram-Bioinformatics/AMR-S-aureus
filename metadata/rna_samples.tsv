@@ -1,0 +1,21 @@
+study	sample_id	condition	treatment	replicate	Run
+GSE40864	Control_2h_rep1	Control	No_Antibiotic	1.0	
+GSE40864	Control_2h_rep2	Control	No_Antibiotic	2.0	
+GSE40864	Control_2h_rep3	Control	No_Antibiotic	3.0	
+GSE40864	Control_2h_rep4	Control	No_Antibiotic	4.0	
+GSE40864	Vancomycin_2h_rep1	Treated	Vancomycin	1.0	
+GSE40864	Vancomycin_2h_rep2	Treated	Vancomycin	2.0	
+GSE40864	Vancomycin_2h_rep3	Treated	Vancomycin	3.0	
+GSE40864	Vancomycin_2h_rep4	Treated	Vancomycin	4.0	
+GSE121797	DAP_S_1A	Sensitive	Daptomycin	1.0	
+GSE121797	DAP_R_1C	Resistant	Daptomycin	1.0	
+GSE121797	DAP_S_3A	Sensitive	Daptomycin	2.0	
+GSE121797	DAP_R_3B	Resistant	Daptomycin	2.0	
+PRJNA1358579	R78_B	Biofilm	Condition	1.0	SRR35975141
+PRJNA1358579	R78_P	Planktonic	Condition	1.0	SRR35975142
+PRJNA1358579	R19_B	Biofilm	Condition	2.0	SRR35975143
+PRJNA1358579	R19_P	Planktonic	Condition	2.0	SRR35975144
+PRJNA1358579	R103_B	Biofilm	Condition	3.0	SRR35975139
+PRJNA1358579	R103_P	Planktonic	Condition	3.0	SRR35975140
+PRJNA1358579	R24_B	Biofilm	Condition	4.0	SRR35975145
+PRJNA1358579	R24_P	Planktonic	Condition	4.0	SRR35975146
