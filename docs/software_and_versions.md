@@ -1,4 +1,4 @@
-# Software and versions
+# Software and tools
 
 This document records the software/tools used in the project.
 

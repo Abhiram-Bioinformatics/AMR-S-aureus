@@ -71,15 +71,16 @@ These tables contain the GO enrichment results for the upregulated genes from PR
 
 The principal figures generated during the project should be placed in `figures/`. These include:
 
-1. Genome assembly quality / QUAST summary
-2. AMR gene distribution heatmap
-3. Resistance-mechanism distribution
-4. Core-genome phylogenetic tree
-5. AMR pangenome heatmap
-6. Integrated genomic-context summary
-7. STRING protein-interaction network
-8. GO enrichment plot
-9. Integrated AMR evidence matrix
+1. Integrated workflow
+2. Genome assembly quality / QUAST summary
+3. AMR gene distribution heatmap
+4. Resistance-mechanism distribution
+5. Core-genome phylogenetic tree
+6. AMR pangenome heatmap
+7. Integrated genomic-context summary
+8. STRING protein-interaction network
+9. GO enrichment plot
+10. Integrated AMR evidence matrix
 
 Only final figures should be included here. Raw plots, temporary graphics, and intermediate visualization files do not need to be committed.
 
